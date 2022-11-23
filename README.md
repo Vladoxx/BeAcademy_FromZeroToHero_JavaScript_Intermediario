@@ -1,6 +1,6 @@
 # BeAcademy_FromZeroToHero_JavaScript_Intermediario
 
-# Java Script Intermediário
+## Java Script Intermediário
 
 * Introdução JavaScript Intermediário - Introdução - Variáveis
 * IIFE e Arrow Functions
@@ -15,4 +15,4 @@
 * Promisses - Async / Await
 * Try / Catch
 * Rest Spread - Destructuring
-* Recrusion
+* Recursion
